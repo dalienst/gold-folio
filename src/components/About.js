@@ -8,16 +8,18 @@ export default function About() {
                     <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
                         Hello, Dalienst here.       
                         <br className="hidden lg:inline-block" />
-                            I love to build applications and podcasting
+                        <br/>
+                            I am a software developer and a podcaster.
                     </h1>
-                    <p className="mb-8 leading-relaxed">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-                        laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-                        Laborum, voluptas natus?
+                    <p className="mb-8 leading-relaxed text-yellow-300 ">
+                        I love building softwares and finding solutions to problems. Enthusiastic about Machine Learning and Artificial Intelligence.
+                        Focused on revolutionizing technology in Africa.
+                        I am the host and creator of The Claphouse Podcast.
                     </p>
+                    <br/>
                     <div className="flex justify-center">
                         <a href="#contact" className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">Work with me</a>
-                        <a href="#projects" className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg">See my previous works</a>
+                        <a href="#projects" className="ml-4 inline-flex text-yellow-300 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg">See my projects gallery</a>
                     </div>
                 </div>
 
